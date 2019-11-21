@@ -5,3 +5,4 @@ c=a+b
 print(c)
 print("substraction",c=a-b)
 print("multi",c=a*b)
+print("dedide",c=a+b)
